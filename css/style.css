@@ -14,9 +14,7 @@ h6,
     font-family: "Open Sans", Helvetica, Arial, sans-serif!important;
 }
 body, html {
-    margin:0;
-    padding:0;
-    width: min-content;
+   
   overflow-x: hidden;
 }
 
